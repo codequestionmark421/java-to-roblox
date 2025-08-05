@@ -2,6 +2,6 @@
 
 this program is meant for people who already have good experience with the roblox engine but would rather use java for scripting
 
-do ***not*** run this program from command line it is specifically meant to double clicked in your file explorer
+>currently no functionality
 
-currently no functionality
+>this isnt meant to be run from the command line just double click it from your file explorer
